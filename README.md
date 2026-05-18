@@ -25,22 +25,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trung19122&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trung19122&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Trung19122&theme=tokyonight" />
 </p>
 
 ---
@@ -63,4 +56,3 @@
 
 ---
 
-<p align="center">⚡ Dark Theme Profile - Built with passion ⚡</p>
