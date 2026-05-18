@@ -28,11 +28,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trung19122&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trung19122&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,13 +48,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/Trung19122">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="nguyenkimtrung2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
