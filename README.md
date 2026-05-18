@@ -1,8 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;I'm+Trung;Fullstack+Developer" />
+</p>
+
 <!-- DARK PROFILE README -->
 
-<h1 align="center">Hi 👋, I'm Trung</h1>
-<h3 align="center">💻 A Passionate Developer | Vietnam 🇻🇳</h3>
+
+<h3 align="center">💻 A Java Backend Developer | Vietnam 🇻🇳</h3>
 
 ---
 
